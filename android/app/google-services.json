@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "930438607483",
+    "project_id": "bookzila-3abb5",
+    "storage_bucket": "bookzila-3abb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930438607483:android:44d68da33193f64703a8de",
+        "android_client_info": {
+          "package_name": "com.example.bookzila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930438607483-jj220a4raqlmoo4vjd5d8likb30evund.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookzila",
+            "certificate_hash": "c5c1a6da7eab8fcb6337c110f43931a7313c845e"
+          }
+        },
+        {
+          "client_id": "930438607483-l0tmd1temt9n70s3ac6feioo0vampr4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvZDUMR2MNYGZAgDbtuxNyuHuH5Y5bbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930438607483-l0tmd1temt9n70s3ac6feioo0vampr4g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930438607483-j76sjmes869jgutfdnj24ag52mp5eh01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookzila"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
